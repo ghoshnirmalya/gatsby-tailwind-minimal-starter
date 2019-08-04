@@ -2,7 +2,7 @@
 
 A starter template for building JAMStack apps using Gatsby and Tailwind CSS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43375424-7999-4b59-a0e5-6ba9194a94af/deploy-status)](https://app.netlify.com/sites/gatsby-tailwindcss/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8cab0292-40e0-4b96-8a19-d7b72f928950/deploy-status)](https://app.netlify.com/sites/gatsby-tailwind-minimal-starter/deploys)
 
 ## Getting Started
 
