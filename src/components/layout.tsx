@@ -2,7 +2,7 @@ import * as React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql, Link } from 'gatsby'
 
-import '../assets/css/tailwind.css'
+import '../../static/assets/css/tailwind.css'
 
 interface StaticQueryProps {
   site: {

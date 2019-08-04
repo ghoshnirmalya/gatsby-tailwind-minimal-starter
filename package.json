@@ -19,9 +19,6 @@
     "test": "npm run type-check && npm run lint",
     "type-check": "tsc"
   },
-  "engines": {
-    "node": ">=11.0.0"
-  },
   "dependencies": {
     "@babel/core": "^7.5.5",
     "gatsby": "^2.13.50",
